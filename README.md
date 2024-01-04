@@ -142,3 +142,6 @@ print_sorted_movies(movies, min_rating)}
 
 ![image](https://github.com/yavuzCodiin/Web_Scraping_IMDB_Most_Popular_Movies/assets/82445309/06c49842-cd26-44e1-ad1d-53ee070a9075)
 
+If you want to understand this in a more simpler language you can check my Medium writing published on `Level Up Coding`
+
+LINK => https://levelup.gitconnected.com/web-scraping-series-part-i-imdbs-most-popular-movies-with-requests-and-beautifulsoup-19dfcc0f524a
